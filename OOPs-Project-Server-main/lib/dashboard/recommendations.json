@@ -1,0 +1,514 @@
+{
+    "professions": [
+        {
+            "profession": "Bachelor",
+            "recommendations": [
+                {
+                    "name": "Mask",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHl0vsGGp-uI2JrbK8R-A932Pbn9Dmf2cTQ&usqp=CAU",
+                    "category": "COVID-19"
+                },
+                {
+                    "name": "Hand Sanitizer",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3npeYuYjEns_fs1RjMZhT5HdUJaLPlVKLtg&usqp=CAU",
+                    "category": "COVID-19"
+                },
+                {
+                    "name": "Pulse-Oximeter",
+                    "image": "https://i.imgur.com/507hNRI.jpg",
+                    "category": "COVID-19"
+                },
+                {
+                    "name": "Fiction",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/30/13/12/texture-1362879_1280.jpg",
+                    "category": "Books"
+                },
+                {
+                    "name": "Non-Fiction",
+                    "image": "https://cdn.pixabay.com/photo/2015/11/19/21/14/phone-1052023_1280.jpg",
+                    "category": "Books"
+                },
+                {
+                    "name": "Crime",
+                    "image": "https://images.unsplash.com/photo-1592903189708-add4d2987b1d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzZ8fGJvb2tzfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Books"
+                },
+                {
+                    "name": "Nouvella",
+                    "image": "https://images.unsplash.com/photo-1587834116357-534be6ec1e8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80",
+                    "category": "Books"
+                },
+                {
+                    "name": "tennis balls",
+                    "image": "https://images.unsplash.com/photo-1512412046876-f386342eddb3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8dGVubmlzJTIwYmFsbHN8ZW58MHwyfDB8&auto=format&fit=crop&w=900&q=60",
+                    "category": "Sports"
+                },
+                {
+                    "name": "badminton shuttlecocks",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCmTUaZfkqGj6GFMvdjGRXrqmV-OQU6RwWvg&usqp=CAU",
+                    "category": "Sports"
+                },
+                {
+                    "name": "supplements",
+                    "image": "https://images.unsplash.com/photo-1558632218-4d2bc591f898?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c3VwcGxlbWVudHN8ZW58MHwyfDB8&auto=format&fit=crop&w=900&q=60",
+                    "category": "Sports"
+                },
+                {
+                    "name": "multivitamins",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlk3tLcipIIyXw5Dg7d4DPTdzbJ1dqcaGu3Q&usqp=CAU",
+                    "category": "Sports"
+                },
+                {
+                    "name": "expense tracker",
+                    "image": "https://images.unsplash.com/photo-1579634893170-8f1750e738bc?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8bW9uZXl8ZW58MHwyfDB8&auto=format&fit=crop&w=900&q=60",
+                    "category": "money"
+                },
+                {
+                    "name": "apples",
+                    "image": "https://images.unsplash.com/photo-1591735179859-a049994205de?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8YXBwbGVzfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Fruits"
+                },
+                {
+                    "name": "mangos",
+                    "image": "https://images.unsplash.com/photo-1582655299221-2b6bff351df0?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bWFuZ29zfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Fruits"
+                },
+                {
+                    "name": "oranges",
+                    "image": "https://images.unsplash.com/photo-1587334207477-cb3e3ff0637f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fG9yYW5nZXN8ZW58MHwyfDB8&auto=format&fit=crop&w=900&q=60",
+                    "category": "Fruits"
+                },
+                {
+                    "name": "Snacks",
+                    "image": "https://images.unsplash.com/photo-1578932599431-eb1333a0069f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8c25hY2tzfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Groceries"
+                },
+                {
+                    "name": "Biscuits",
+                    "image": "https://images.unsplash.com/photo-1590080874088-eec64895b423?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8YmlzY3VpdHN8ZW58MHwyfDB8&auto=format&fit=crop&w=900&q=60",
+                    "category": "Groceries"
+                },
+                {
+                    "name": "Nuts",
+                    "image": "https://images.unsplash.com/photo-1497533922876-a261efd98c5a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8bnV0c3xlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Groceries"
+                },
+                {
+                    "name": "Pens",
+                    "image": "https://images.unsplash.com/photo-1567855354833-ac2c4f967b0c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8cGVuc3xlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "Pencils",
+                    "image": "https://images.unsplash.com/photo-1568205612837-017257d2310a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8cGVuY2lsc3xlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "Notebooks",
+                    "image": "https://images.unsplash.com/photo-1605236636470-26b0a2248f3f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGVuY2lsc3xlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "Erasers",
+                    "image": "https://images.unsplash.com/photo-1505569127510-bde1536937bc?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZXJhc2VyfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "Art Supplies",
+                    "image": "https://images.unsplash.com/photo-1599601821513-00e3f9fa1e6a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8YXJ0JTIwc3VwcGxpZXN8ZW58MHwyfDB8&auto=format&fit=crop&w=900&q=60",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "Medicines",
+                    "image": "https://images.unsplash.com/photo-1555633514-abcee6ab92e1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8bWVkaWNpbmVzfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Medicines"
+                },
+                {
+                    "name": "shampoo",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB2KwlJ1LW_bySpJcttlHNh85XbkTk0ReoWQ&usqp=CAU",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "showergel",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBpO6DTfQOPBtem5TI9-lfmNP1pChBK1bzA&usqp=CAU",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "conditioner",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3qbZIzC56lyjgMO5OofYe-acZ4qwGfmegwrcVwBcGa4z58dLe7pgP6sRRgWzfek1G19AsmoI&usqp=CAc",
+                    "category": "Toiletriese"
+                },
+                {
+                    "name": "facewash",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIUNV-aIQfkmL2M61EO-zOLKL6NUr7c8vwTnlwTk54XoHIkz4cln7mxFu38g&usqp=CAc",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "facecream",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiRveaqUwObFi7hJ-lS2sui-vV_GdRuskn-VeokXPG4LzFnYISJH9h-tzmqcLsTNU7uRVNtrqbg&usqp=CAc",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "Perfume",
+                    "image": "https://images.unsplash.com/photo-1594125311687-3b1b3eafa9f4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyZnVtZXxlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Grooming"
+                },
+                {
+                    "name": "Body-Spray",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaLXv63TYVM-RzOc8lfzYlkV25TuCk9TJ45g&usqp=CAU",
+                    "category": "Grooming"
+                },
+                {
+                    "name": "sanitary pads",
+                    "image": "https://images.unsplash.com/photo-1588959396534-db4a48af6b04?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8c2FuaXRhcnklMjBwYWRzfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Personal Hygiene"
+                },
+                {
+                    "name": "Nail Clipper",
+                    "image": "https://s3.us-west-2.amazonaws.com/s3.japonesque.com/wp-content/uploads/2017/11/28074205/053_Pro-Performance-Nail-Clipper-Detail-Image-2.jpg",
+                    "category": "Personal Hygiene"
+                },
+                {
+                    "name": "Razor",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlNMIvt8bauTs2VFzMYIDXReRubx8gE8IfWTdiX-DUDDcHCX4NS12gwPv2hdNNLfbP7lcmcBw&usqp=CAc",
+                    "category": "Personal Hygiene"
+                }
+
+            ]
+        },
+      
+        {
+            "profession": "Working Professionals",
+            "recommendations": [
+                {
+                    "name": "Mask",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHl0vsGGp-uI2JrbK8R-A932Pbn9Dmf2cTQ&usqp=CAU",
+                    "category": "COVID-19"
+                },
+                {
+                    "name": "Hand Sanitizer",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3npeYuYjEns_fs1RjMZhT5HdUJaLPlVKLtg&usqp=CAU",
+                    "category": "COVID-19"
+                },
+                {
+                    "name": "Pulse-Oximeter",
+                    "image": "https://i.imgur.com/507hNRI.jpg",
+                    "category": "COVID-19"
+                },
+                {
+                    "name": "safety supplies",
+                    "image": "https://images.unsplash.com/photo-1590093105704-fddd246ab64f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8c2FmZXR5JTIwc3VwcGxpZXN8ZW58MHwyfDB8&auto=format&fit=crop&w=900&q=60",
+                    "category": "Supplies"
+                },
+                {
+                    "name": "Organization supplies",
+                    "image": "https://images.unsplash.com/photo-1600658747056-eb00845297a5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fG9yZ2FuaXphdGlvbiUyMHN1cHBsaWVzfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Supplies"
+                },
+                {
+                    "name": "Dry cleaned suits",
+                    "image": "https://images.unsplash.com/photo-1593032527598-55649fe534ac?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8c3VpdHN8ZW58MHwyfDB8&auto=format&fit=crop&w=900&q=60",
+                    "category": "Clothing"
+                },
+                {
+                    "name": "Personal Cards",
+                    "image": "https://images.unsplash.com/photo-1601592935678-406968278b1e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29uYWwlMjBjYXJkc3xlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "sanitary pads",
+                    "image": "https://images.unsplash.com/photo-1588959396534-db4a48af6b04?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8c2FuaXRhcnklMjBwYWRzfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Personal Hygiene"
+                },
+                {
+                    "name": "Nail Clipper",
+                    "image": "https://s3.us-west-2.amazonaws.com/s3.japonesque.com/wp-content/uploads/2017/11/28074205/053_Pro-Performance-Nail-Clipper-Detail-Image-2.jpg",
+                    "category": "Personal Hygiene"
+                },
+                {
+                    "name": "Razor",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlNMIvt8bauTs2VFzMYIDXReRubx8gE8IfWTdiX-DUDDcHCX4NS12gwPv2hdNNLfbP7lcmcBw&usqp=CAc",
+                    "category": "Personal Hygiene"
+                },
+                {
+                    "name": "Fruits",
+                    "image": "https://images.unsplash.com/photo-1562166453-964fd947f2a4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTF8fGZydWl0c3xlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Groceries"
+                },
+                {
+                    "name": "Vegetables",
+                    "image": "https://images.unsplash.com/photo-1518164147695-36c13dd568f5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDF8fHZlZ2V0YWJsZXN8ZW58MHwyfDB8&auto=format&fit=crop&w=900&q=60",
+                    "category": "Groceries"
+                },
+                {
+                    "name": "Medicines",
+                    "image": "https://images.unsplash.com/photo-1555633514-abcee6ab92e1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8bWVkaWNpbmVzfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "First Aid"
+                }
+            
+
+            ]
+        },
+
+        {
+            "profession": "Home-Makers",
+            "recommendations": [
+                {
+                    "name": "Mask",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHl0vsGGp-uI2JrbK8R-A932Pbn9Dmf2cTQ&usqp=CAU",
+                    "category": "COVID-19"
+                },
+                {
+                    "name": "Hand Sanitizer",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3npeYuYjEns_fs1RjMZhT5HdUJaLPlVKLtg&usqp=CAU",
+                    "category": "COVID-19"
+                },
+                {
+                    "name": "Pulse-Oximeter",
+                    "image": "https://i.imgur.com/507hNRI.jpg",
+                    "category": "COVID-19"
+                }
+                {
+                    "name": "Broomstick",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK5KFGGO6QAhbxWV0OWHvrcNcFmCoPkgVU8Q&usqp=CAU",
+                    "category": "Cleaning Supplies"
+                },
+                {
+                    "name": "Mopping cloth",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc7vOSlNjKemIoP1pzctjbTfX6_WokGbc1XayJ87iqR7Pdj2vNxfKCh5w--8U&usqp=CAc",
+                    "category": "Cleaning Supplies"
+                },
+                {
+                    "name": "Cleaning wipes",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXeqXzO88XAuj3ZUjhiO_g4Iw9PDC2DG7BsPZ3iawrFKt1tUmkTIdZLr4kwCwOqf-8IxyFFQ&usqp=CAc",
+                    "category": "Cleaning Supplies"
+                },
+                {
+                    "name": "Detergent",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVP9H7ujWGbbOyVqmiDxbRZ0nSxODLPtpiA&usqp=CAU",
+                    "category": "Cleaning Supplies"
+                },
+                {
+                    "name": "Water Bottles",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJO-fi30MHU8Hxf86E2Kn1Cbg5yO7O0-ajshpIzCoatWDkxmR00IA35Up1w&usqp=CAc",
+                    "category": "Kitchenware"
+                },
+                {
+                    "name": "Jars",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyk7Y4kL6LKEGD8wKbcoAS7BJfxSBfqY3KSoZyif2DI2CV61hNgY9kBD6VwfPJtZwOqKsNJE&usqp=CAc",
+                    "category": "Kitchenware"
+                },
+                {
+                    "name": "sanitary pads",
+                    "image": "https://images.unsplash.com/photo-1588959396534-db4a48af6b04?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8c2FuaXRhcnklMjBwYWRzfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Personal Hygiene"
+                },
+                {
+                    "name": "Nail Clipper",
+                    "image": "https://s3.us-west-2.amazonaws.com/s3.japonesque.com/wp-content/uploads/2017/11/28074205/053_Pro-Performance-Nail-Clipper-Detail-Image-2.jpg",
+                    "category": "Personal Hygiene"
+                },
+                {
+                    "name": "Razor",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlNMIvt8bauTs2VFzMYIDXReRubx8gE8IfWTdiX-DUDDcHCX4NS12gwPv2hdNNLfbP7lcmcBw&usqp=CAc",
+                    "category": "Personal Hygiene"
+                },
+                {
+                    "name": "Rice",
+                    "image": "https://images.unsplash.com/photo-1581184953987-5668072c8420?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cmljZXxlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Groceries"
+                },
+                {
+                    "name": "Wheat",
+                    "image": "https://images.unsplash.com/photo-1415381850596-1d29bce989f8?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8d2hlYXR8ZW58MHwyfDB8&auto=format&fit=crop&w=900&q=60",
+                    "category": "Groceries"
+                },
+                {
+                    "name": "Medicines",
+                    "image": "https://images.unsplash.com/photo-1555633514-abcee6ab92e1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8bWVkaWNpbmVzfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "First Aid"
+                },
+                {
+                    "name": "Perfume",
+                    "image": "https://images.unsplash.com/photo-1594125311687-3b1b3eafa9f4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyZnVtZXxlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Grooming"
+                },
+                {
+                    "name": "Body-Spray",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaLXv63TYVM-RzOc8lfzYlkV25TuCk9TJ45g&usqp=CAU",
+                    "category": "Grooming"
+                },
+                {
+                    "name": "Pens",
+                    "image": "https://images.unsplash.com/photo-1567855354833-ac2c4f967b0c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8cGVuc3xlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "Pet Toys",
+                    "image": "https://images.unsplash.com/photo-1548595152-f556f2d0fde5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGV0JTIwdG95c3xlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Pet Care"
+                },
+                {
+                    "name": "Pet Shampoo",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXn6XXsNP6H0Ohrh7QIqcIV_hrUWG-ajIumjwmMCASKhPECmS-5x_1FblYNMX0DaDqcASQ-_g&usqp=CAc",
+                    "category": "Pet Care"
+                },
+                {
+                    "name": "Pet Food",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4VmMOR9DhP0ds6VmRrxPtyviuPb-iEyFWg&usqp=CAU",
+                    "category": "Pet Care"
+                },
+                {
+                    "name": "shampoo",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB2KwlJ1LW_bySpJcttlHNh85XbkTk0ReoWQ&usqp=CAU",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "showergel",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBpO6DTfQOPBtem5TI9-lfmNP1pChBK1bzA&usqp=CAU",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "conditioner",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3qbZIzC56lyjgMO5OofYe-acZ4qwGfmegwrcVwBcGa4z58dLe7pgP6sRRgWzfek1G19AsmoI&usqp=CAc",
+                    "category": "Toiletriese"
+                },
+                {
+                    "name": "facewash",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIUNV-aIQfkmL2M61EO-zOLKL6NUr7c8vwTnlwTk54XoHIkz4cln7mxFu38g&usqp=CAc",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "facecream",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiRveaqUwObFi7hJ-lS2sui-vV_GdRuskn-VeokXPG4LzFnYISJH9h-tzmqcLsTNU7uRVNtrqbg&usqp=CAc",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "facescrub",
+                    "image": "https://cdn.shopify.com/s/files/1/0066/8719/5183/products/walnut-scrub_1200x1200.jpg?v=1560176961",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "wall hangings",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSuJkQ0F6DRQXtduPp4Em7aI1_sgjUWKlMCHdQNA4q3tsCuFzss_Z5wThoTyeICAn4flbSfI&usqp=CAc",
+                    "category": "Decor"
+                },
+                {
+                    "name": "poster",
+                    "image": "https://ca-times.brightspotcdn.com/dims4/default/de97c14/2147483647/strip/true/crop/1313x1689+0+0/resize/1155x1486!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F80%2F68%2F389cd712417c80522c3644b98af3%2Fprotect-and-respect-v.1%20%5BEnglish%5D.jpg",
+                    "category": "Decor"
+                }
+            ]
+        },
+        {
+            "profession": "Job-Seekers",
+            "recommendations": [
+                {
+                    "name": "Mask",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHl0vsGGp-uI2JrbK8R-A932Pbn9Dmf2cTQ&usqp=CAU",
+                    "category": "COVID-19"
+                },
+                {
+                    "name": "Hand Sanitizer",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3npeYuYjEns_fs1RjMZhT5HdUJaLPlVKLtg&usqp=CAU",
+                    "category": "COVID-19"
+                },
+                {
+                    "name": "Pulse-Oximeter",
+                    "image": "https://i.imgur.com/507hNRI.jpg",
+                    "category": "COVID-19"
+                },
+                {
+                    "name": "Stamps",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6uD4oKT_YKELpCpx0_Om3T9maxOeG0uaBmce4gDB-5Uj6Cq608OPzzZV5VA&usqp=CAc",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "Business Cards",
+                    "image": "https://images.unsplash.com/photo-1521572031778-340c54818c3f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YnVzaW5lc3MlMjBjYXJkfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "Thankyou Cards",
+                    "image": "https://ideas.hallmark.com/wp-content/uploads/2020/08/WTW_ThankYouCards.jpg",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "Resume papers and envelops",
+                    "image": "https://i5.walmartimages.com/asr/41e2103b-fecf-4bac-a94a-2d8d99ba2bb6_1.de11d4532aef5b1f973c62e03ab06c0d.jpeg",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "Pens",
+                    "image": "https://images.unsplash.com/photo-1515159791318-cd51af6830f9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGVuc3xlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "Notepads",
+                    "image": "https://images.unsplash.com/photo-1596144895688-dd669b7ca817?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bm90ZXBhZHN8ZW58MHwyfDB8&auto=format&fit=crop&w=900&q=60",
+                    "category": "Stationary"
+                },
+                {
+                    "name": "Business Charts",
+                    "image": "https://images.unsplash.com/photo-1580307028391-8051f48e159d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YnVzaW5lc3MlMjBjaGFydHN8ZW58MHwyfDB8&auto=format&fit=crop&w=900&q=60",
+                    "category": ""
+                },
+                {
+                    "name": "shampoo",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB2KwlJ1LW_bySpJcttlHNh85XbkTk0ReoWQ&usqp=CAU",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "showergel",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBpO6DTfQOPBtem5TI9-lfmNP1pChBK1bzA&usqp=CAU",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "conditioner",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3qbZIzC56lyjgMO5OofYe-acZ4qwGfmegwrcVwBcGa4z58dLe7pgP6sRRgWzfek1G19AsmoI&usqp=CAc",
+                    "category": "Toiletriese"
+                },
+                {
+                    "name": "facewash",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIUNV-aIQfkmL2M61EO-zOLKL6NUr7c8vwTnlwTk54XoHIkz4cln7mxFu38g&usqp=CAc",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "facecream",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiRveaqUwObFi7hJ-lS2sui-vV_GdRuskn-VeokXPG4LzFnYISJH9h-tzmqcLsTNU7uRVNtrqbg&usqp=CAc",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "facescrub",
+                    "image": "https://cdn.shopify.com/s/files/1/0066/8719/5183/products/walnut-scrub_1200x1200.jpg?v=1560176961",
+                    "category": "Toiletries"
+                },
+                {
+                    "name": "Perfume",
+                    "image": "https://images.unsplash.com/photo-1594125311687-3b1b3eafa9f4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyZnVtZXxlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Grooming"
+                },
+                {
+                    "name": "Body-Spray",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaLXv63TYVM-RzOc8lfzYlkV25TuCk9TJ45g&usqp=CAU",
+                    "category": "Grooming"
+                },
+                {
+                    "name": "sanitary pads",
+                    "image": "https://images.unsplash.com/photo-1588959396534-db4a48af6b04?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8c2FuaXRhcnklMjBwYWRzfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=900&q=60",
+                    "category": "Personal Hygiene"
+                },
+                {
+                    "name": "Nail Clipper",
+                    "image": "https://s3.us-west-2.amazonaws.com/s3.japonesque.com/wp-content/uploads/2017/11/28074205/053_Pro-Performance-Nail-Clipper-Detail-Image-2.jpg",
+                    "category": "Personal Hygiene"
+                },
+                {
+                    "name": "Razor",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlNMIvt8bauTs2VFzMYIDXReRubx8gE8IfWTdiX-DUDDcHCX4NS12gwPv2hdNNLfbP7lcmcBw&usqp=CAc",
+                    "category": "Personal Hygiene"
+                }
+            ]
+        }
+    ]
+}
